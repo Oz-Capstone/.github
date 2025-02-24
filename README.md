@@ -119,7 +119,7 @@
 - [웹 PC 시연영상](https://youtube.com/)
 - [웹 모바일 시연영상](https://youtube.com/)
 - [iOS 시연영상](https://youtube.com/)
-- [Android 시연영상](https://youtube.com/)
+- [Android 시연영상]([https://youtube.com/](https://youtu.be/K1HOWMxT6fk?si=MRcVik9K4OqStUDK))
 
 ## 📊 우수팀 비교표
 
