@@ -129,6 +129,7 @@
 | Doc | ✅ | ✅ | ❌ | ❌ | ❌ |
 | 영상 | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 화면 | I,A,R | R | R | R | R |
+
 최우수 : https://github.com/capstone-aloha
 우수1 : https://github.com/TeamCookCaps
 우수2 : https://github.com/godi00/capstone
