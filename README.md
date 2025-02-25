@@ -59,7 +59,7 @@
 ## 💡 기능 구성도
 
 <details>
-<summary>기능 구성도</summary>
+<summary>기능 구성도(클릭하면 내용 보입니다)</summary>
 <img src="https://github.com/user-attachments/assets/aec344bb-0379-42b7-ad9a-d3e0ef401e7f" width="600">
 </details>
 
@@ -67,7 +67,7 @@
 ## 📋 API 명세서
 
 <details>
-<summary>전체 API 명세 보기</summary>
+<summary>전체 API 명세 보기(클릭하면 내용 보입니다)</summary>
 
 ### 🚗 차량 관리 API
 
