@@ -130,9 +130,9 @@
 | 영상 | ✅ | ❌ | ❌ | ❌ | ❌ |
 | 화면 | I,A,R | R | R | R | R |
 
-최우수 : https://github.com/capstone-aloha
-우수1 : https://github.com/TeamCookCaps
-우수2 : https://github.com/godi00/capstone
+최우수 : https://github.com/capstone-aloha</br>
+우수1 : https://github.com/TeamCookCaps</br>
+우수2 : https://github.com/godi00/capstone</br>
 우수3 : https://github.com/Capic2024/server-flask
 ## 👥 팀원 소개
 
