@@ -54,7 +54,7 @@
 
 ## 🏗 시스템 아키텍처
 
-<img src="https://github.com/user-attachments/assets/0a181469-0484-453a-8728-56bbe4873d4a" width="800">
+<img src="https://github.com/user-attachments/assets/950535b4-34ac-4ce7-821e-f97753d030a1" width="800">
 
 ## 💡 기능 구성도
 
