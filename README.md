@@ -116,7 +116,7 @@
 
 ## 🎥 시연 영상
 
-- [웹 PC 시연영상](https://youtube.com/)
+- [웹 PC 시연영상](https://youtu.be/LyZfsUR9xug)
 - [웹 모바일 시연영상](https://youtube.com/)
 - [iOS 시연영상](https://youtu.be/-IjOtbxJREc)
 - [Android 시연영상](https://youtu.be/K1HOWMxT6fk?si=MRcVik9K4OqStUDK)
