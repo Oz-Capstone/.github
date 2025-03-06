@@ -116,18 +116,18 @@
 
 ## 🎥 시연 영상
 
-- [웹 PC 시연영상](https://youtu.be/LyZfsUR9xug)
+- [웹 PC 시연영상](https://www.youtube.com/watch?v=LyZfsUR9xug)
 - [웹 모바일 시연영상](https://youtube.com/)
-- [iOS 시연영상](https://youtu.be/-IjOtbxJREc)
-- [Android 시연영상](https://youtu.be/K1HOWMxT6fk?si=MRcVik9K4OqStUDK)
+- [iOS 시연영상](https://www.youtube.com/watch?v=-IjOtbxJREc)
+- [Android 시연영상](https://www.youtube.com/watch?v=K1HOWMxT6fk)
 
 ## 📊 우수팀 비교표
 
 |  | SimCar | 최우수 | 우수1 | 우수2 | 우수3 |
 |------|--------|---------|---------|---------|---------|
 | Code | ✅ | ✅ | ✅ | ✅ | ✅ |
-| Doc | ✅ | ✅ | ❌ | ❌ | ❌ |
-| 영상 | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
+| 영상 | ✅ | ✅ | ❌ | ❌ | ❌ |
 | 화면 | I,A,R | R | R | R | R |
 
 최우수 : https://github.com/capstone-aloha</br>
