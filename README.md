@@ -129,6 +129,7 @@
 | Doc | ✅ | ✅ | ✅ | ❌ | ✅ |
 | 영상 | ✅ | ✅ | ❌ | ❌ | ❌ |
 | 화면 | I,A,R | R | R | R | R |
+| AppStore/GoolePlay | ✅ | ❌ | ❌ | ❌ | ❌ |
 
 최우수 : https://github.com/capstone-aloha</br>
 우수1 : https://github.com/TeamCookCaps</br>
