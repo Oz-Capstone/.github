@@ -121,7 +121,7 @@
 - [iOS 시연영상](https://www.youtube.com/watch?v=-IjOtbxJREc)
 - [Android 시연영상](https://www.youtube.com/watch?v=K1HOWMxT6fk)
 
-## 📊 우수팀 비교표
+## 📊 작년 우수팀 비교표
 
 |  | SimCar | 최우수 | 우수1 | 우수2 | 우수3 |
 |------|--------|---------|---------|---------|---------|
