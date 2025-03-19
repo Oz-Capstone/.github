@@ -10,6 +10,7 @@
 </div>
 
 ## 📚 목차
+- [홈페이지] ( https://simcar.kro.kr )
 - [프로젝트 소개](#-프로젝트-소개)
 - [기술 스택](#-기술-스택)
 - [시스템 아키텍처](#-시스템-아키텍처)
@@ -113,6 +114,11 @@
 - [React Frontend](https://github.com/Oz-Capstone/Simcar-Front-Web)
 - [iOS App](https://github.com/Oz-Capstone/Simcar-Front-IOS)
 - [Android App](https://github.com/Oz-Capstone/Simcar-Front-Flutter)
+
+## 📊 App 설치
+
+- [AppStore]
+- [GooglePlay]
 
 ## 🎥 시연 영상
 
