@@ -32,7 +32,9 @@
 - OAuth2.0 기반 사용자 인증
 
 ## 🛠 기술 스택
-
+<details>
+<summary>기술 스택(클릭하면 내용 보입니다)</summary>
+  
 ### Backend
 <img src="https://img.shields.io/badge/Java 21-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
@@ -52,6 +54,8 @@
 
 ### DevOps
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+
+</details>
 
 ## 🏗 시스템 아키텍처
 
