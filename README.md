@@ -122,7 +122,7 @@
 ## 📊 App 설치
 
 - [AppStore]
-- [GooglePlay]
+- [GooglePlay](https://play.google.com/store/apps/details?id=com.junhee.simcar)
 
 ## 🎥 시연 영상
 
