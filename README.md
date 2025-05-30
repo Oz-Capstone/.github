@@ -159,3 +159,6 @@
 <div align="center">
 Copyright © 2024 SimCar. All rights reserved.
 </div>
+
+![KakaoTalk_Photo_2025-05-30-09-55-04](https://github.com/user-attachments/assets/4a183751-df12-4498-bc85-616791f0920b)
+
